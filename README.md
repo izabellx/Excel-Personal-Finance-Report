@@ -19,7 +19,7 @@ to understand financial data at a glance.
  - Download the Data from Kaggle
  - Open the Data
  - Data Cleaning (used: Find&Replace, Remove Duplicates, Spelling, Number Format, Lower(), Proper(), Trim(), TEXT(), MONTH()
- - Calculation (used: SUMIFS(), SUMIF(), VLOOKUP(), XLOOKUP(), TODAY(), SUM(), Pivot Tables, relative and absolute cell references)
+ - Calculation (used: SUMIFS(), SUM(), SUMIF(), VLOOKUP(), XLOOKUP(), TODAY(), Pivot Tables, relative and absolute cell references)
  - Visualization (used: Text Field and Shapes Grouping, Line Charts, Doughnut Chart, Table with Slicer, Hyperlinks, GIF uploading)
 
 # Report
@@ -39,7 +39,13 @@ Incomes & Expenses:
 
 Workspace:
 
-	An area for additional calculations or analysis.
+	An area for additional calculations and analysis.
+
+# Report SnapShoot
+
+
+![dashboard1](https://github.com/user-attachments/assets/f64e5c80-8b57-44c9-b5da-bfbc22073ec2)
+![dashboard2](https://github.com/user-attachments/assets/a677199b-60b2-44b7-bb6e-c5955e33ca02)
 
 
 # Insights
