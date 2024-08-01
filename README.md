@@ -20,7 +20,7 @@ to understand financial data at a glance.
  - Open the Data
  - Data Cleaning (used: Find&Replace, Remove Duplicates, Spelling, Number Format, Lower(), Proper(), Trim(), TEXT(), MONTH()
  - Calculation (used: SUMIFS(), SUM(), SUMIF(), VLOOKUP(), XLOOKUP(), TODAY(), Pivot Tables, relative and absolute cell references)
- - Visualization (used: Text Field and Shapes Grouping, Line Charts, Doughnut Chart, Table with Slicer, Hyperlinks, GIF uploading)
+ - Visualization (used: Text Field and Shapes Grouping, Line Charts, Donut Chart, Table with Slicer, Hyperlinks, GIF uploading)
 
 # Report
 
