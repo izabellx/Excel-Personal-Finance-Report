@@ -44,8 +44,8 @@ Workspace:
 # Report SnapShoot
 
 
-![dashboard1](https://github.com/user-attachments/assets/f64e5c80-8b57-44c9-b5da-bfbc22073ec2)
-![dashboard2](https://github.com/user-attachments/assets/a677199b-60b2-44b7-bb6e-c5955e33ca02)
+![dashboard1](https://github.com/user-attachments/assets/69c80970-119e-4fdb-83ea-b162948ae07f)
+![dashboard2](https://github.com/user-attachments/assets/c8cba894-2045-4b09-b490-d4bdf19ee873)
 
 
 # Insights
